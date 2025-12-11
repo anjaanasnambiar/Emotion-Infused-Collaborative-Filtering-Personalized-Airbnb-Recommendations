@@ -94,7 +94,3 @@ Launch the app by running
 ```
 ## License
 This project is open-source and available under the MIT License.
-# Emotion-Infused-Collaborative-Filtering-for-Personalized-Airbnb-Recommendations
-# Emotion-Infused-Collaborative-Filtering-for-Personalized-Airbnb-Recommendations
-# Emotion-Infused-Collaborative-Filtering-for-Personalized-Airbnb-Recommendations
-# Emotion-Infused-Collaborative-Filtering-used-for-Personalized-Airbnb-Recommendations
